@@ -1,0 +1,17 @@
+{
+	"ulid": "01GA44AD93G2K89SJM1BMFGSZ0",
+	"minTime": 1660132804461,
+	"maxTime": 1660140000000,
+	"stats": {
+		"numSamples": 273600,
+		"numSeries": 570,
+		"numChunks": 2280
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GA44AD93G2K89SJM1BMFGSZ0"
+		]
+	},
+	"version": 1
+}

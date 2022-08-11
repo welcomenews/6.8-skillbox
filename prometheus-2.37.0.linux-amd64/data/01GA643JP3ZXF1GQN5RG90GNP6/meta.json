@@ -1,0 +1,17 @@
+{
+	"ulid": "01GA643JP3ZXF1GQN5RG90GNP6",
+	"minTime": 1660140000000,
+	"maxTime": 1660147200000,
+	"stats": {
+		"numSamples": 138505,
+		"numSeries": 570,
+		"numChunks": 1710
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GA643JP3ZXF1GQN5RG90GNP6"
+		]
+	},
+	"version": 1
+}

@@ -1,0 +1,4 @@
+alive: isa-4 192.168.1.96:8301
+leave
+clock: 1
+alive: isa-4 192.168.1.96:8301
